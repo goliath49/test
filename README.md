@@ -1,5 +1,5 @@
 # test
 
 ```sh
-$ pwd
+\$ pwd
 ```
